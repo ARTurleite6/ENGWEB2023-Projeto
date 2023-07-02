@@ -5,7 +5,7 @@
 <h2> Trabalho Prático - Relatório de Desenvolvimento</h2>
 <h3> Proposta Nº2-Inquirições de Génere</h3>
 
-<img title="Escola de Engenharia" alt="Alt text" src="https://github.com/ARTurleite6/EW_PL/blob/main/pics/transferir.png">
+<img title="Escola de Engenharia" alt="Alt text" src="https://github.com/ARTurleite6/ENGWEB2023-Projeto/blob/main/pics/transferir.png">
 
 <h4>
     Hugo dos Santos Martins - a95125
