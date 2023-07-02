@@ -5,7 +5,7 @@ services:
     ports: 
       - 27016:27017
     volumes:
-      - /home/arturl/dev/EW_PL/db-files:/data/db
+      - /home/arturl/dev/ENGWEB2023-Projeto/db-files:/data/db
     networks:
       - ew_pl_network
   api:
