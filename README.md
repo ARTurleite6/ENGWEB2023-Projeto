@@ -138,7 +138,7 @@ Caso a autenticação seja válida é criado um token que contém id do user, em
 
 <h1></h1>
 <h3>9.Docker</h3>
-Por fim, e após terminar a implementação de todas as funcionalidades às quais nos propusemos, o grupo utilizou o docker, de forma a fornecer uma maneira consistente e confiável de empacotar a aplicação, e poder ser utilizada noutras máquinas distintas da original.
+Por fim, e após terminar a implementação de todas as funcionalidades às quais nos propusemos, o grupo utilizou o docker, de forma a fornecer uma maneira consistente e confiável de empacotar a aplicação, e poder ser utilizada noutras máquinas distintas da original.Para isso criamos duas imagens, uma a API de dados e outra para o client.De seguida criamos um container a correr o servidor MongoDB, unindo estes três containers num único através do Docker Compose.
     
 
 <h1></h1>
