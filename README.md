@@ -91,14 +91,14 @@ De seguida são apresentadas as páginas e uma breve explicação do conteúdo d
 Após realizar o login, é apresentada a página inicial que está na figura abaixo. Nela é possível observar uma lista de Inquirições, que são listadas em várias páginas para facilitar a navegação pelas inquirições. É também possível aumentar o número de registos apresentados.
 Para além disto, existe uma barra de pesquisa através da qual é possível procurar por nome(s), ou até mesmo por intervalo de datas.
 O grupo optou por mostrar apenas esta informação,pois achou que seria a informação ,mais relevante.
-    <img title="Init Page" alt="Alt text" src="https://github.com/ARTurleite6/ENGWEB2023-Projeto/blob/main/pics/initpage.png" width="1000" >
+    <img title="Init Page" alt="Alt text" src="https://github.com/ARTurleite6/ENGWEB2023-Projeto/blob/main/pics/pagina_principal.png" width="1000" >
     <h2></h2>
 <h4>
         Página de Inquirição (/genesis/:id)
 </h4>
 Na página de inquirição, é possível observar todos os campos daquele documento, inclusive as relações, para as quais existe um link para navegar para a mesma.Para os administradores é possível editar um registo, ou até mesmo eliminá-lo.
 
- <img title="Inq Page" alt="Alt text" src="https://github.com/ARTurleite6/ENGWEB2023-Projeto/blob/main/pics/inqpage.png" width="1000" >
+ <img title="Inq Page" alt="Alt text" src="https://github.com/ARTurleite6/ENGWEB2023-Projeto/blob/main/pics/generepage.png" width="1000" >
     <h2></h2>
     
 <h4>
