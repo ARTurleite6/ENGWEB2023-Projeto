@@ -81,7 +81,7 @@ const ListPage = () => {
         let next = typeof nextPage == 'string' ? parseInt(nextPage) : nextPage;
         const skip = (next - 1) * limitPage;
 
-        let newList = list.filter((entry) => entry.UnitTitle.includes(filterName)).filter((entry) => entry.PhysLoc === locationFilter);
+        let newList = locationFilter === '' ? [...list] : list.filter((entry) => entry.UnitTitle.includes(filterName)).filter((entry) => entry.PhysLoc === locationFilter);
         const { initialDate, finalDate } = dateFilter;
         if (initialDate !== null) {
             newList = newList.filter((entry) => {
